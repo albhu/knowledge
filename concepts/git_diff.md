@@ -1,4 +1,4 @@
-## Git Diff
+## git diff
 
 Git diff is a command to show you the difference between the working directory, index, and the most recent commit.
 
